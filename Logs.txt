@@ -1,0 +1,169 @@
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:16:23.904593 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:23:32.526563 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:23:33.278198 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:23:38.298117 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:26:09.463560 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:26:10.816658 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:27:46.860533 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:27:47.974380 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:29:11.711631 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:29:13.024194 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:31:33.573490 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:31:34.499588 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:32:06.491053 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:32:07.798819 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:32:09.163793 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 17:32:50.011614 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 18:02:58.498304 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 18:03:08.481317 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 18:03:15.109182 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:13:45.018254 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:13:45.066595 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:14:05.766513 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:15:17.351129 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:16:24.143045 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:16:54.482190 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:17:17.261041 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:17:20.123747 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:17:21.996480 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:28:18.334828 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:28:21.166255 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:30:39.728200 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 21:32:20.003447 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:12:02.010721 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:13:53.858922 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:13:55.704296 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:14:20.257518 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:14:21.569953 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:14:22.962965 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:24:28.901943 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:24:30.150426 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:24:36.929092 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:26:14.260879 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:26:15.334367 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:26:20.492159 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:29:45.762986 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:29:46.982267 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:29:48.942099 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:35:23.585955 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:35:25.709163 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:35:27.501252 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:41:56.992514 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:41:58.296888 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:42:00.101831 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:43:26.079559 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:43:27.700278 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:43:30.542723 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:46:18.109432 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:46:21.851078 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:46:32.527705 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:48:48.676006 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:48:55.842393 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:49:01.567576 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:57:37.692847 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 22:58:30.379570 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:07:53.249848 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:07:56.112104 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:08:46.296839 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:08:47.884752 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:08:50.185212 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:12:14.848963 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:12:14.888677 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:12:21.915625 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:12:35.477948 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:12:40.737874 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:27:17.403988 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:27:19.104700 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-20 23:27:21.555590 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 09:59:53.272484 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:03.594981 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:07.391271 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:15.962987 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:33.465634 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:34.670712 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:37.079625 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:49.412701 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:50.419968 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:00:51.554272 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:29.692233 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:29.710871 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:30.555731 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:55.076577 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:56.249678 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:04:58.597428 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:09:11.102719 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:09:13.123228 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 10:09:15.079405 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:14:53.240775 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:14:55.560026 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:14:57.184417 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:15:36.646384 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:15:38.301489 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:15:39.983046 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-22 17:16:34.593843 text: /start 
+id: 1076770543 name: Алла Горячева time: 2021-03-22 17:19:14.320641 text: /start 
+id: 1076770543 name: Алла Горячева time: 2021-03-22 17:19:14.352341 text: /start 
+id: 1076770543 name: Алла Горячева time: 2021-03-22 17:19:25.697166 text: Главное меню 
+id: 1076770543 name: Алла Горячева time: 2021-03-22 17:19:28.826459 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-23 09:56:29.854258 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-23 09:56:39.341269 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-23 09:56:41.856661 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-23 09:56:44.125465 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:12:50.920056 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:12:52.467970 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:12:59.328897 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:13.607802 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:14.978477 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:16.657871 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:47.320118 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:50.213589 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:17:52.552942 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:26:44.655631 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:26:45.590742 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:29:29.747612 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:44:53.046041 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:44:54.615355 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 16:44:56.370195 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:17:45.101547 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:17:46.036742 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:17:47.229894 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:38:10.149009 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:38:18.307050 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:38:21.547606 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:44:55.549468 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:45:01.488981 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 17:45:04.554102 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:38:30.670611 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:38:33.592676 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:38:50.975467 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:48:50.769315 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:48:51.928534 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-03-27 18:48:53.741005 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-01 13:50:37.492139 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-01 13:50:41.325859 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-01 13:50:42.657632 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-08 09:16:01.020092 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-08 09:16:04.104040 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-08 09:16:08.168294 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 15:57:58.905834 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 15:57:59.961040 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:04.153644 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:05.418635 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:08.303346 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:19.172024 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:20.279762 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:01:23.772241 text: Новости обо всём 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:06:38.669034 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:06:39.867065 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:06:43.219877 text: Новости обо всём 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:09:27.199940 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:09:28.651745 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:09:30.398930 text: Новости обо всём 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:10:11.511306 text: Политика 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:10:35.449249 text: Новости обо всём 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:27:19.511312 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:27:20.841617 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-10 16:27:23.628397 text: Новости обо всём 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-13 14:05:03.770623 text: /start 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-13 14:05:05.753011 text: Главное меню 
+id: 420044259 name: Arseniy Goryachev time: 2021-04-13 14:05:08.009586 text: Политика 
